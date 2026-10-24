@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I am like chesse
 
 ![stare at you.](<img width="480" height="374" alt="image" src="https://github.com/user-attachments/assets/56ff814a-6eec-454b-9c58-b81091583c1b" />
-https://github.com...)
+[dance](https://github.com...)https://giphy.com/gifs/dance-freddy-five-nights-at-freddys-5ycjhPOva6nN2qR6nB
