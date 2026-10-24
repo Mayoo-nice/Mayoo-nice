@@ -1,4 +1,4 @@
-Hi
+Chesse
 
 <!--
 **Mayoo-nice/Mayoo-nice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/He/Myo.
 - ⚡ Fun fact: I am like chesse
 -->
-![Demo Video](chesse.gif.)
+![Chesse](Https.chesse)
