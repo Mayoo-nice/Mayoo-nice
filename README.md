@@ -11,4 +11,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/He/Myo.
 - ⚡ Fun fact: I am like chesse
 -->
-![Chesse](Https.chesse)
+
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/dce51bd3-6389-416b-a656-322f1a8a797d" />
