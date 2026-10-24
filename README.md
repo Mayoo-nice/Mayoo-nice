@@ -11,4 +11,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/He/Myo.
 - ⚡ Fun fact: I am like chesse
 ![Bonnie](<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/9c7a704d-8b6f-473e-ac04-45c34dadb0b7" />)
-
