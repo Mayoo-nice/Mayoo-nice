@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: She/He/Myo.
 - ⚡ Fun fact: I am like chessee
-![Deskripsi Gambar](./
-
-.gif)
+![Deskripsi Gambar](./ https://pin.it/7ED0zwncO
+.picture)
 
